@@ -22,7 +22,8 @@ dependencies:
   smoke: '>=0.2.0'
   source_maps: '>=0.9.4'
   source_span: '>=1.0.0'
-  template_binding: '>=0.12.0'
+  template_binding:
+    git: https://github.com/blckur/template-binding.git
   web_components: '>=0.11.3'
   yaml: '>=0.9.0'
 
